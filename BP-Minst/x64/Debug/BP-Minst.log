@@ -1,0 +1,4 @@
+﻿  DemoTest.cpp
+d:\github\bp-network\bp-minst\demotest.cpp(327): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  BP-Minst.vcxproj -> D:\Github\BP-Network\x64\Debug\BP-Minst.exe
+  BP-Minst.vcxproj -> D:\Github\BP-Network\x64\Debug\BP-Minst.pdb (Partial PDB)
