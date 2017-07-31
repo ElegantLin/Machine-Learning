@@ -45,7 +45,7 @@ void Neuron::feedForwrd(Layer & prevLayer)
 
 	for (int i = 0; i < prevLayer.size(); i++)
 	{
-		sum += prevLayer[i].outputValue*prevLayer[i].outputWeights
+		sum += prevLayer[i].getOutputValue();
 	}
 }
 
