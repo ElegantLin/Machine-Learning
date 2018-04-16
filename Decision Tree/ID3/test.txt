@@ -1,0 +1,5 @@
+young	myope	no	reduced
+young	myope	no	normal
+young	myope	yes	reduced
+young	myope	yes	normal
+young	hyper	no	reduced
